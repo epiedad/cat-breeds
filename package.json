@@ -1,0 +1,22 @@
+{
+  "name": "iona",
+  "version": "1.0.0",
+  "description": "Cat Breeds Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epiedad/cat-breeds.git"
+  },
+  "keywords": [
+    "cats"
+  ],
+  "author": "Elianti Piedad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epiedad/cat-breeds/issues"
+  },
+  "homepage": "https://github.com/epiedad/cat-breeds#readme"
+}
